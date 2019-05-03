@@ -13,7 +13,7 @@ class App extends Component {
       <div className="App">
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
-          <h1 class-name="App-title">Fib Calculator version 9</h1>
+          <h1 class-name="App-title">Fib Calculator version Kubernetes</h1>
           <Link to="/">Homer</Link>
           <Link to="/otherpage">Other Page</Link>
         </header>
